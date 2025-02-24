@@ -1,2 +1,3 @@
 # clases
 PRIMER REPOSITORIO
+https://github.com/gusfersa/2424-FUNDAMENTOS-DE-PROGRAMACION--UEA-L-UFB-026.git
